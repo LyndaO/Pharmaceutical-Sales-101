@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6H2Ex1m64RR_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Pharmaceutical Sales 101</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Pharmaceutical_Sales_101_ORG">
+    <organization identifier="Pharmaceutical_Sales_101_ORG">
+      <title>Pharmaceutical Sales 101</title>
+      <item identifier="Sample-_Pharmaceautical_Sales_SCO" isvisible="true" identifierref="__6H2Ex1m64RR_course_id_RES">
+        <title>Pharmaceutical Sales 101</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6H2Ex1m64RR_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5caF9KBbwIT_80_P_109_0_1829_1365.jpg" />
+      <file href="mobile/5iJqLlFuW84_80.jpg" />
+      <file href="mobile/6L8zkbmNLda_80.jpg" />
+      <file href="mobile/6ilK7eUCLTh_X_P_0_0_607_978.png" />
+      <file href="mobile/5m99Qa6LBlS_P_0_0_676_1064.png" />
+      <file href="story_content/6jxH8K9ks6N_44100_48_0.mp3" />
+      <file href="story_content/6N3AuIpoKvG_44100_48_0.mp3" />
+      <file href="story_content/6DiBEH9KIHY_44100_48_0.mp3" />
+      <file href="story_content/5jq7J3dupjq_44100_48_0.mp3" />
+      <file href="mobile/5jKGPQtMIPy_P_0_0_793_1064.png" />
+      <file href="story_content/6PsTZmiUjr1_44100_48_0.mp3" />
+      <file href="mobile/5mmyeZmjSv7_X_P_0_0_660_978.png" />
+      <file href="story_content/6kPgSuUcgN3_44100_48_0.mp3" />
+      <file href="mobile/6gHiHyMfYvb_P_0_0_842_1064.png" />
+      <file href="story_content/6TOcVYBqt5R_44100_48_0.mp3" />
+      <file href="story_content/6LissuVq6eN_44100_48_0.mp3" />
+      <file href="story_content/5k3Z98yp2d4_44100_48_0.mp3" />
+      <file href="story_content/6iGFU5gAZHl_44100_48_0.mp3" />
+      <file href="story_content/5VGvxPIH7rv_44100_48_0.mp3" />
+      <file href="story_content/5e5ihnS8nKd_44100_48_0.mp3" />
+      <file href="story_content/5gvKqyVX373_44100_48_0.mp3" />
+      <file href="story_content/6hIoEHYsmUd_44100_48_0.mp3" />
+      <file href="mobile/631mEqmMGov.png" />
+      <file href="mobile/6JQBlvUjvBw.png" />
+      <file href="story_content/report.html" />
+      <file href="mobile/5Xf7FDlOG6G.png" />
+      <file href="mobile/6q2VacjhHFx.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6MgibniH6vX.png" />
+      <file href="mobile/txt__default_6czEMi4K1qP.png" />
+      <file href="mobile/txt__default_6GkEGKabJCf.png" />
+      <file href="mobile/txt__default_6fe157u18JB.png" />
+      <file href="mobile/txt__default_66mX5MUKtB4.png" />
+      <file href="mobile/Shape5xsVvF0jzjY.png" />
+      <file href="mobile/Shape5uccRFIbUVB.png" />
+      <file href="mobile/Shape5WTH792lb9u.png" />
+      <file href="mobile/txt__default_5vdKvj83Hl0.png" />
+      <file href="mobile/txt__default_64ksPfjiUpQ.png" />
+      <file href="mobile/txt__default_5a9EvBkr9jO.png" />
+      <file href="mobile/txt__default_6iHDmGrDnfq.png" />
+      <file href="mobile/Shape6Q94CVHS9kX.png" />
+      <file href="mobile/Shape5tQGIAGxobr.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eNT1wmx8UZ.js" />
+      <file href="html5/data/js/5hBr3DZwArf.js" />
+      <file href="html5/data/js/5oLhLA6dRCF.js" />
+      <file href="html5/data/js/5r8FKq8LuJL.js" />
+      <file href="html5/data/js/5v5xpSs8y6D.js" />
+      <file href="html5/data/js/5Veue45HFV0.js" />
+      <file href="html5/data/js/5xo8IoyVJca.js" />
+      <file href="html5/data/js/6380HTOt4Vi.js" />
+      <file href="html5/data/js/6lVn5ZMJZaT.js" />
+      <file href="html5/data/js/6Z6m7yD0FIA.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
